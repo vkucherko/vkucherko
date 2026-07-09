@@ -24,18 +24,18 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/pill-location.dark.svg" /><img src="assets/icons/pill-location.svg" height="24" alt="Sarasota, FL · open to remote" /></picture>
+  <img src="assets/ui/pill-location.svg" height="24" alt="Sarasota, FL · open to remote" />
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/pill-quality.dark.svg" /><img src="assets/icons/pill-quality.svg" height="24" alt="Quality Engineering · 9+ years" /></picture>
+  <img src="assets/ui/pill-quality.svg" height="24" alt="Quality Engineering · 9+ years" />
 </p>
 
 <p align="center">
-  <a href="#build">What I build</a> &nbsp;·&nbsp;
-  <a href="#headed">Where I'm headed</a> &nbsp;·&nbsp;
-  <a href="#impact">Impact</a> &nbsp;·&nbsp;
-  <a href="#featured">Featured work</a> &nbsp;·&nbsp;
-  <a href="#stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#talk">Contact</a>
+  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-build.dark.svg" /><img src="assets/ui/nav-build.svg" height="30" alt="What I build" /></picture></a>
+  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-headed.dark.svg" /><img src="assets/ui/nav-headed.svg" height="30" alt="Where I'm headed" /></picture></a>
+  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-impact.dark.svg" /><img src="assets/ui/nav-impact.svg" height="30" alt="Impact" /></picture></a>
+  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-featured.dark.svg" /><img src="assets/ui/nav-featured.svg" height="30" alt="Featured work" /></picture></a>
+  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-stack.dark.svg" /><img src="assets/ui/nav-stack.svg" height="30" alt="Tech Stack" /></picture></a>
+  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-talk.dark.svg" /><img src="assets/ui/nav-talk.svg" height="30" alt="Contact" /></picture></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 <a id="build"></a>
 
 <details>
-<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build.dark.svg" /><img src="assets/glyph/build.svg" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h3></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build.dark.svg" /><img src="assets/glyph/build.svg" height="26" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h3></summary>
 
 <br />
 
@@ -54,7 +54,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 - **Every run is a readable timeline.** Per-step tool calls, retries, and outcomes are logged as a trajectory, so a failure is an inspectable sequence — not a black box.
 - **Grounded in the product.** Requirements and domain context are retrieved (RAG) so generated tests reflect *intended behavior*, not just whatever the DOM happens to expose.
 
-<sub>Stack behind it: multi-agent LLM orchestration · Claude Opus + tool-calling · MCP / Chrome DevTools MCP · Playwright · TypeScript · Azure DevOps</sub>
+<sub>Multi-agent LLM orchestration · Claude Opus + tool-calling · MCP / Chrome DevTools MCP · Playwright · TypeScript · Azure DevOps</sub>
 
 </details>
 
@@ -63,7 +63,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 <a id="headed"></a>
 
 <details>
-<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed.dark.svg" /><img src="assets/glyph/headed.svg" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h3></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed.dark.svg" /><img src="assets/glyph/headed.svg" height="26" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h3></summary>
 
 <br />
 
@@ -78,7 +78,7 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 <a id="impact"></a>
 
 <details>
-<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize.dark.svg" /><img src="assets/glyph/optimize.svg" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h3></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize.dark.svg" /><img src="assets/glyph/optimize.svg" height="26" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h3></summary>
 
 <br />
 
@@ -100,9 +100,9 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 <a id="featured"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured.dark.svg" /><img src="assets/glyph/featured.svg" height="26" align="middle" alt=""></picture> &nbsp;Featured work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured.dark.svg" /><img src="assets/glyph/featured.svg" height="26" align="absmiddle" alt=""></picture> &nbsp;Featured work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="middle" alt=""></picture> &nbsp;QA Control Panel is an *agentic AI test-automation platform*
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;QA Control Panel is an *agentic AI test-automation platform*
 
 It turns an Azure DevOps user story into a **designed, implemented, executed, and self-healed** Playwright + TypeScript suite autonomously, with zero manual scripting. A multi-agent LLM pipeline drives a real browser to verify selectors before writing tests, then re-inspects and heals on failure.
 
@@ -127,7 +127,7 @@ flowchart TD
 
 <sub>Node.js · Playwright / TypeScript · Claude Opus · MCP · Azure DevOps · RAG &nbsp;·&nbsp; source private</sub>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/leaf.dark.svg" /><img src="assets/glyph/leaf.svg" height="24" align="middle" alt=""></picture> &nbsp;Chia is an *instant food barcode scanner*
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/leaf.dark.svg" /><img src="assets/glyph/leaf.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;Chia is an *instant food barcode scanner*
 
 A cross-platform iOS app that scans a food barcode and returns an instant **pass / fail** health verdict from a 65-rule engine over 1.3M+ products — offline-first, with AI (Gemini) OCR for crowdsourced labels. Every verdict fires through four redundant signals: **color + icon + text + haptic**.
 
@@ -156,13 +156,13 @@ flowchart TD
 <a id="stack"></a>
 
 <details>
-<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" /><img src="assets/icons/layers-v2.svg" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h3></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" /><img src="assets/icons/layers-v2.svg" height="26" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h3></summary>
 
 <br />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,selenium&perline=15" height="48" alt="TypeScript, JavaScript, Java, Python, Selenium" />
-  <img src="assets/icons/playwright.svg" height="48" align="middle" alt="Playwright" />
+  <img src="assets/icons/playwright.svg" height="48" align="absmiddle" alt="Playwright" />
   <img src="https://skillicons.dev/icons?i=nodejs,react,githubactions,jenkins,azure,aws,cloudflare,supabase,postgres&perline=15" height="48" alt="Node.js, React, GitHub Actions, Jenkins, Azure, AWS, Cloudflare, Supabase, Postgres" />
 </p>
 
@@ -198,7 +198,7 @@ flowchart TD
 
 <a id="talk"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk.dark.svg" /><img src="assets/glyph/talk.svg" height="26" align="middle" alt=""></picture> &nbsp;Let's talk
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk.dark.svg" /><img src="assets/glyph/talk.svg" height="26" align="absmiddle" alt=""></picture> &nbsp;Let's talk
 
 <p align="center">
   <img src="./assets/sig.svg" width="150" alt="SK monogram" />
