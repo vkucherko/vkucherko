@@ -65,8 +65,8 @@
       .k1{ animation-delay:4.22s } .k2{ animation-delay:4.34s } .k3{ animation-delay:4.46s }
       .k4{ animation-delay:4.58s } .k5{ animation-delay:4.72s }
       .shS{ animation:sweepS .85s ease-in-out 5.0s 1 both; }
-      .shD{ animation:sweepD .85s ease-in-out 6.2s 1 both; }
-      .shG{ animation:sweepG .85s ease-in-out 7.4s 1 both; }
+      .shD{ animation:sweepD .85s ease-in-out 6.0s 1 both; }
+      .shG{ animation:sweepG .85s ease-in-out 7.0s 1 both; }
 
       .runbox{ animation:runFlash 2.7s var(--e-io) 8.4s both; }
       .runtext{ animation:runTextFlash 2.7s var(--e-io) 8.4s both; }
@@ -76,8 +76,8 @@
       .row{ transform-box:fill-box; transform-origin:center; animation:rowSettle .8s ease 11.0s 1; }
       .r-status{ opacity:0; animation:fadeIn .5s ease 11.3s forwards; }
       .v-exec{ clip-path:inset(0 100% 0 0); animation:typeIn .5s steps(8) 11.9s forwards; }
-      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .16s linear 12.5s forwards; }
-      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .16s linear 13.1s forwards; }
+      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .28s linear 12.5s forwards; }
+      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .28s linear 13.2s forwards; }
       .caret3{ transform-box:fill-box; opacity:0; animation:typeCaret 1.5s linear 11.9s forwards; }
       .caret2{ opacity:0; animation:blink 1s steps(1) 13.45s infinite; }
       .scan{ animation:scan 8s linear 0s infinite; }
