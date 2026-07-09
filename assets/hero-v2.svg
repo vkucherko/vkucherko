@@ -76,8 +76,8 @@
       .row{ transform-box:fill-box; transform-origin:center; animation:rowSettle .8s ease 11.0s 1; }
       .r-status{ opacity:0; animation:fadeIn .5s ease 11.3s forwards; }
       .v-exec{ clip-path:inset(0 100% 0 0); animation:typeIn .5s steps(8) 11.9s forwards; }
-      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .1s steps(1) 12.5s forwards; }
-      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .1s steps(1) 13.1s forwards; }
+      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .16s linear 12.5s forwards; }
+      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .16s linear 13.1s forwards; }
       .caret3{ transform-box:fill-box; opacity:0; animation:typeCaret 1.5s linear 11.9s forwards; }
       .caret2{ opacity:0; animation:blink 1s steps(1) 13.45s infinite; }
       .scan{ animation:scan 8s linear 0s infinite; }
