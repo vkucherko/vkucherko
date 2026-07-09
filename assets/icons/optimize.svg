@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none"><mask id="g-optimizeL">
+      <path d="M17.53 11.67L19.71 11.95L19.71 14.45L17.53 14.73L16.94 16.35L18.43 17.97L16.82 19.89L14.97 18.7L13.47 19.56L13.58 21.76L11.11 22.19L10.46 20.09L8.76 19.79L7.43 21.54L5.26 20.29L6.11 18.26L5 16.94L2.85 17.43L2 15.07L3.95 14.06L3.95 12.34L2 11.33L2.85 8.97L5 9.46L6.11 8.14L5.26 6.11L7.43 4.86L8.76 6.61L10.46 6.31L11.11 4.21L13.58 4.64L13.47 6.84L14.97 7.7L16.82 6.51L18.43 8.43L16.94 10.05Z" fill="#fff"/>
+      <circle cx="10.8" cy="13.2" r="4.2" fill="#000"/>
+    </mask>
+    <rect x="0" y="0" width="24" height="24" fill="#1f2328" mask="url(#g-optimizeL)"/>
+    <path d="M7 16 L10 13 L12 14.6 L18.6 5.4" fill="none" stroke="#1f2328" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 5.6 L18.8 5.3 L19.1 9" fill="none" stroke="#1f2328" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>

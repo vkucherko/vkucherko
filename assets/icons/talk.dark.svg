@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none"><mask id="t-talkD">
+      <rect x="2" y="3" width="20" height="14" rx="3.2" fill="#fff"/>
+      <path d="M7 15 L7 21.2 Q7 21.9 7.7 21.4 L13 16.5 Z" fill="#fff"/>
+      <circle cx="8.5" cy="10" r="1.6" fill="#000"/>
+      <circle cx="12" cy="10" r="1.6" fill="#000"/>
+      <circle cx="15.5" cy="10" r="1.6" fill="#000"/>
+    </mask>
+    <rect x="0" y="0" width="24" height="24" fill="#e6edf3" mask="url(#t-talkD)"/></svg>
