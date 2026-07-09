@@ -19,7 +19,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kucherko/" target="_blank" rel="noopener noreferrer"><img src="assets/badge-linkedin.svg" height="22" alt="LinkedIn — kucherko" /></a>
+  <a href="https://www.linkedin.com/in/kucherko/"><img src="assets/badge-linkedin.svg" height="22" alt="LinkedIn — kucherko" /></a>
   <a href="mailto:vkucherko7@gmail.com"><img src="assets/badge-email.svg" height="22" alt="Email — vkucherko7" /></a>
 </p>
 
@@ -39,7 +39,7 @@
 <a id="build"></a>
 
 <details>
-<summary>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/build-dark.svg" /><img src="assets/icons/build.png" height="22" alt="" /></picture> &nbsp;<b>What I Build Now</b></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/build-dark.svg" /><img src="assets/icons/build.png" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h3></summary>
 
 <br />
 
@@ -59,7 +59,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 <a id="headed"></a>
 
 <details>
-<summary>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/headed-dark.svg" /><img src="assets/icons/headed.png" height="22" alt="" /></picture> &nbsp;<b>Where I'm headed</b></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/headed-dark.svg" /><img src="assets/icons/headed.png" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h3></summary>
 
 <br />
 
@@ -74,7 +74,9 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 <a id="impact"></a>
 
 <details>
-<summary>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/optimize-dark.svg" /><img src="assets/icons/optimize.png" height="22" alt="" /></picture> &nbsp;<b>What I optimize for</b></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/optimize-dark.svg" /><img src="assets/icons/optimize.png" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h3></summary>
+
+<br />
 
 <!-- ────────────────────────────────────────────────────────────────────────
      The single strongest signal to a hiring manager is a REAL, defensible
@@ -94,14 +96,14 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 <a id="featured"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/featured-dark.svg" /><img src="assets/icons/featured.png" height="22" alt=""></picture> &nbsp;Featured work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/featured-dark.svg" /><img src="assets/icons/featured.png" height="26" align="middle" alt=""></picture> &nbsp;Featured work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/qa-dark.svg" /><img src="assets/icons/qa.png" height="19" alt=""></picture> &nbsp;QA Control Panel is an *agentic AI test-automation platform*
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/qa-dark.svg" /><img src="assets/icons/qa.png" height="24" align="middle" alt=""></picture> &nbsp;QA Control Panel is an *agentic AI test-automation platform*
 
 It turns an Azure DevOps user story into a **designed, implemented, executed, and self-healed** Playwright + TypeScript suite autonomously, with zero manual scripting. A multi-agent LLM pipeline drives a real browser to verify selectors before writing tests, then re-inspects and heals on failure.
 
 <details>
-<summary>&nbsp;&nbsp;<b>Architecture</b></summary>
+<summary>&nbsp;&nbsp;<b>How it works</b></summary>
 
 ```mermaid
 flowchart TD
@@ -121,12 +123,12 @@ flowchart TD
 
 <sub>Node.js · Playwright / TypeScript · Claude Opus · MCP · Azure DevOps · RAG &nbsp;·&nbsp; source private</sub>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/leaf-dark.svg" /><img src="assets/icons/leaf.png" height="19" alt=""></picture> &nbsp;Chia is an *instant food barcode scanner*
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/leaf-dark.svg" /><img src="assets/icons/leaf.png" height="24" align="middle" alt=""></picture> &nbsp;Chia is an *instant food barcode scanner*
 
 A cross-platform iOS app that scans a food barcode and returns an instant **pass / fail** health verdict from a 65-rule engine over 1.3M+ products — offline-first, with AI (Gemini) OCR for crowdsourced labels. Every verdict fires through four redundant signals: **color + icon + text + haptic**.
 
 <details>
-<summary>&nbsp;&nbsp;<b>Architecture</b></summary>
+<summary>&nbsp;&nbsp;<b>How it works</b></summary>
 
 ```mermaid
 flowchart TD
@@ -150,14 +152,15 @@ flowchart TD
 <a id="stack"></a>
 
 <details>
-<summary>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" /><img src="assets/icons/layers-v2.svg" height="22" alt="" /></picture> &nbsp;<b>Tech Stack</b></summary>
+<summary><h3>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" /><img src="assets/icons/layers-v2.svg" height="26" align="middle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h3></summary>
 
 <br />
 
+<!-- To slot a custom Playwright icon between Selenium and Node: split the skillicons URL
+     at "selenium", and place <img src="assets/icons/playwright.svg" height="48" align="middle" />
+     between the two <img> tags. Requires assets/icons/playwright.svg (transparent, square). -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,selenium,nodejs,react,githubactions,jenkins,azure,aws,cloudflare,supabase,postgres&perline=15" alt="Tech stack icons" />
-  <br />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 |  |  |
@@ -192,7 +195,7 @@ flowchart TD
 
 <a id="talk"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/talk-dark.svg" /><img src="assets/icons/talk.png" height="22" alt=""></picture> &nbsp;Let's talk
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/talk-dark.svg" /><img src="assets/icons/talk.png" height="26" align="middle" alt=""></picture> &nbsp;Let's talk
 
 <p align="center">
   <img src="./assets/sig.svg" width="150" alt="SK monogram" />
@@ -201,6 +204,6 @@ flowchart TD
 <p align="center"><em>Currently exploring how agentic AI changes what a single quality engineer can own, from a written requirement all the way to a verified, self-healing test suite.</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kucherko/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kucherko/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vkucherko7@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
