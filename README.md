@@ -30,15 +30,15 @@
 </p>
 
 <p align="center">
-  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-build.dark.svg" /><img src="assets/ui/btn-build.svg" height="30" alt="What I build" /></picture></a>
-  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-headed.dark.svg" /><img src="assets/ui/btn-headed.svg" height="30" alt="Where I'm headed" /></picture></a>
-  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-impact.dark.svg" /><img src="assets/ui/btn-impact.svg" height="30" alt="Impact" /></picture></a>
-  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-featured.dark.svg" /><img src="assets/ui/btn-featured.svg" height="30" alt="Featured work" /></picture></a>
-  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-stack.dark.svg" /><img src="assets/ui/btn-stack.svg" height="30" alt="Tech Stack" /></picture></a>
-  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/btn-talk.dark.svg" /><img src="assets/ui/btn-talk.svg" height="30" alt="Contact" /></picture></a>
+  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-build.dark.svg" /><img src="assets/ui/button-build.svg" height="30" alt="What I build" /></picture></a>
+  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-headed.dark.svg" /><img src="assets/ui/button-headed.svg" height="30" alt="Where I'm headed" /></picture></a>
+  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-impact.dark.svg" /><img src="assets/ui/button-impact.svg" height="30" alt="Impact" /></picture></a>
+  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-featured.dark.svg" /><img src="assets/ui/button-featured.svg" height="30" alt="Featured work" /></picture></a>
+  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-stack.dark.svg" /><img src="assets/ui/button-stack.svg" height="30" alt="Tech Stack" /></picture></a>
+  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/button-talk.dark.svg" /><img src="assets/ui/button-talk.svg" height="30" alt="Contact" /></picture></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="build"></a>
 
@@ -58,7 +58,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="headed"></a>
 
@@ -73,7 +73,7 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="impact"></a>
 
@@ -96,7 +96,7 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="featured"></a>
 
@@ -151,7 +151,7 @@ flowchart TD
 
 <sub>React Native · Expo · TypeScript · Cloudflare Workers · Supabase / Postgres &nbsp;·&nbsp; source private · TestFlight on request</sub>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="stack"></a>
 
@@ -176,7 +176,7 @@ flowchart TD
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <!-- The snake is a self-contained SVG committed to the `output` branch by
      .github/workflows/snake.yml — no third-party service at view time.
@@ -194,7 +194,7 @@ flowchart TD
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkucherko&layout=compact&hide_border=true&title_color=22d3ee&text_color=9fb0c8&bg_color=0b1020" />
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/divider.dark.svg" /><img src="assets/ui/divider.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/sep.dark.svg" /><img src="assets/ui/sep.svg" width="66%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="talk"></a>
 
