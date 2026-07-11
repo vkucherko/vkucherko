@@ -19,6 +19,7 @@
     <clipPath id="clipS"><rect x="40" y="262" width="66" height="28" rx="8"/></clipPath>
     <clipPath id="clipD"><rect x="126" y="262" width="84" height="28" rx="8"/></clipPath>
     <clipPath id="clipG"><rect x="230" y="262" width="98" height="28" rx="8"/></clipPath>
+    <clipPath id="clipH"><rect x="432" y="262" width="72" height="28" rx="8"/></clipPath>
     <!-- name + status values (executed/1/0) reveal via CSS clip-path:inset on the text elements themselves — see <style> -->
 
 
@@ -42,6 +43,7 @@
       @keyframes sweepS{ 0%{transform:translateX(-72px);opacity:0} 20%{opacity:.9} 80%{opacity:.9} 100%{transform:translateX(72px);opacity:0} }
       @keyframes sweepD{ 0%{transform:translateX(-92px);opacity:0} 20%{opacity:.9} 80%{opacity:.9} 100%{transform:translateX(92px);opacity:0} }
       @keyframes sweepG{ 0%{transform:translateX(-108px);opacity:0} 20%{opacity:.9} 80%{opacity:.9} 100%{transform:translateX(108px);opacity:0} }
+      @keyframes sweepH{ 0%{transform:translateX(-80px);opacity:0} 20%{opacity:.9} 80%{opacity:.9} 100%{transform:translateX(80px);opacity:0} }
       @keyframes runFlash{ 0%{fill:#2a1420;stroke:#ff5c72} 5%{fill:#3a1a10;stroke:#ff5c72} 56%{fill:#3a1a10;stroke:#ff5c72} 74%{fill:#3a2a10;stroke:#f5b544} 100%{fill:#0f2a20;stroke:#34d399} }
       @keyframes runTextFlash{ 0%{fill:#ff5c72} 56%{fill:#ff5c72} 74%{fill:#f5b544} 100%{fill:#5eead4} }
       @keyframes healPulse{ 0%{opacity:0;transform:scale(.6)} 40%{opacity:.9} 100%{opacity:0;transform:scale(2.1)} }
@@ -65,26 +67,27 @@
       .k1{ animation-delay:4.22s } .k2{ animation-delay:4.34s } .k3{ animation-delay:4.46s }
       .k4{ animation-delay:4.58s } .k5{ animation-delay:4.72s }
       .shS{ animation:sweepS .85s ease-in-out 5.0s 1 both; }
-      .shD{ animation:sweepD .85s ease-in-out 5.6s 1 both; }
-      .shG{ animation:sweepG .85s ease-in-out 6.2s 1 both; }
+      .shD{ animation:sweepD .85s ease-in-out 5.65s 1 both; }
+      .shG{ animation:sweepG .85s ease-in-out 6.3s 1 both; }
 
-      .runbox{ animation:runFlash 2.7s var(--e-io) 7.5s both; }
-      .runtext{ animation:runTextFlash 2.7s var(--e-io) 7.5s both; }
-      .failtag{ opacity:0; animation:tagIn 1.2s linear 7.8s both; }
-      .heal-ring{ transform-box:fill-box; transform-origin:center; opacity:0; animation:healPulse 1s var(--e-out) 9.0s 1 both; }
-      .check{ stroke-dasharray:var(--len); animation:drawIn .55s var(--e-out) 10.1s both; }
-      .row{ transform-box:fill-box; transform-origin:center; animation:rowSettle .8s ease 10.1s 1; }
-      .r-status{ opacity:0; animation:fadeIn .5s ease 10.4s forwards; }
-      .v-exec{ clip-path:inset(0 100% 0 0); animation:typeIn .5s steps(8) 11.0s forwards; }
-      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .34s linear 11.6s forwards; }
-      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .34s linear 12.4s forwards; }
-      .caret3{ transform-box:fill-box; opacity:0; animation:typeCaret 1.5s linear 11.0s forwards; }
-      .caret2{ opacity:0; animation:blink 1s steps(1) 12.55s infinite; }
+      .runbox{ animation:runFlash 2.7s var(--e-io) 7.35s both; }
+      .runtext{ animation:runTextFlash 2.7s var(--e-io) 7.35s both; }
+      .failtag{ opacity:0; animation:tagIn 1.2s linear 7.65s both; }
+      .shH{ animation:sweepH .85s ease-in-out 8.9s 1 both; }
+      .heal-ring{ transform-box:fill-box; transform-origin:center; opacity:0; animation:healPulse 1s var(--e-out) 8.85s 1 both; }
+      .check{ stroke-dasharray:var(--len); animation:drawIn .55s var(--e-out) 9.95s both; }
+      .row{ transform-box:fill-box; transform-origin:center; animation:rowSettle .8s ease 9.95s 1; }
+      .r-status{ opacity:0; animation:fadeIn .5s ease 10.25s forwards; }
+      .v-exec{ clip-path:inset(0 100% 0 0); animation:typeIn .5s steps(8) 10.85s forwards; }
+      .v-1{ clip-path:inset(0 100% 0 0); animation:typeIn .34s linear 11.45s forwards; }
+      .v-0{ clip-path:inset(0 100% 0 0); animation:typeIn .34s linear 12.25s forwards; }
+      .caret3{ transform-box:fill-box; opacity:0; animation:typeCaret 1.5s linear 10.85s forwards; }
+      .caret2{ opacity:0; animation:blink 1s steps(1) 12.4s infinite; }
       .scan{ animation:scan 8s linear 0s infinite; }
 
       @media (prefers-reduced-motion: reduce){
         *{ animation:none !important; }
-        .r-status{ opacity:1; } .name,.v-exec,.v-1,.v-0{ clip-path:none; } .caret1,.caret3{ opacity:0; } .scan{ opacity:0; } .shS,.shD,.shG{ opacity:0; }
+        .r-status{ opacity:1; } .name,.v-exec,.v-1,.v-0{ clip-path:none; } .caret1,.caret3{ opacity:0; } .scan{ opacity:0; } .shS,.shD,.shG,.shH{ opacity:0; }
       }
     </style>
   </defs>
@@ -133,6 +136,7 @@
       <g clip-path="url(#clipS)"><rect class="shS" x="40" y="262" width="66" height="28" fill="url(#sheen)"/></g>
       <g clip-path="url(#clipD)"><rect class="shD" x="126" y="262" width="84" height="28" fill="url(#sheen)"/></g>
       <g clip-path="url(#clipG)"><rect class="shG" x="230" y="262" width="98" height="28" fill="url(#sheen)"/></g>
+      <g clip-path="url(#clipH)"><rect class="shH" x="432" y="262" width="72" height="28" fill="url(#sheen)"/></g>
 
       <text class="failtag mono" x="380" y="314" font-size="11" text-anchor="middle" fill="#ff8493">flaky selector → patched</text>
     </g>

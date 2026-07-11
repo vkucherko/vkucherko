@@ -9,7 +9,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero-v5.svg" width="100%" alt="Terminal — slav@quality-engineer runs an agentic QA pipeline (story → design → generate → run → heal → green). AI Quality Engineer · 9+ yrs." />
+  <img src="./assets/hero-v6.svg" width="100%" alt="Terminal — slav@quality-engineer runs an agentic QA pipeline (story → design → generate → run → heal → green). AI Quality Engineer · 9+ yrs." />
 </p>
 
 <h3 align="center">I build quality systems for software and, increasingly, with AI.</h3>
@@ -21,19 +21,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kucherko/"><img src="assets/badge-linkedin.svg" height="22" alt="LinkedIn — kucherko" /></a>
   <a href="mailto:vkucherko7@gmail.com"><img src="assets/badge-mail-v2.svg" height="22" alt="Email — vkucherko7" /></a>
-</p>
-
-<p align="center">
+  <br />
   <img src="assets/ui/tag-location.svg" height="24" alt="Sarasota, FL · open to remote" /><img src="assets/ui/spacer.svg" width="1" height="1" alt="" />
 </p>
 
 <p align="center">
-  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-build-v2.dark.svg" /><img src="assets/ui/navbtn-build-v2.svg" height="32" alt="What I build" /></picture></a>
-  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-headed-v2.dark.svg" /><img src="assets/ui/navbtn-headed-v2.svg" height="32" alt="Where I'm headed" /></picture></a>
-  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-impact-v2.dark.svg" /><img src="assets/ui/navbtn-impact-v2.svg" height="32" alt="Impact" /></picture></a>
-  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-featured-v2.dark.svg" /><img src="assets/ui/navbtn-featured-v2.svg" height="32" alt="Featured work" /></picture></a>
-  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-stack-v2.dark.svg" /><img src="assets/ui/navbtn-stack-v2.svg" height="32" alt="Tech Stack" /></picture></a>
-  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-talk-v2.dark.svg" /><img src="assets/ui/navbtn-talk-v2.svg" height="32" alt="Contact" /></picture></a>
+  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-build-v3.dark.svg" /><img src="assets/ui/navbtn-build-v3.svg" height="32" alt="What I build" /></picture></a>
+  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-headed-v3.dark.svg" /><img src="assets/ui/navbtn-headed-v3.svg" height="32" alt="Where I'm headed" /></picture></a>
+  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-impact-v3.dark.svg" /><img src="assets/ui/navbtn-impact-v3.svg" height="32" alt="Impact" /></picture></a>
+  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-featured-v3.dark.svg" /><img src="assets/ui/navbtn-featured-v3.svg" height="32" alt="Featured work" /></picture></a>
+  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-stack-v3.dark.svg" /><img src="assets/ui/navbtn-stack-v3.svg" height="32" alt="Tech Stack" /></picture></a>
+  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-talk-v3.dark.svg" /><img src="assets/ui/navbtn-talk-v3.svg" height="32" alt="Contact" /></picture></a>
 </p>
 
 <a id="build"></a>
@@ -54,7 +52,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="95%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="headed"></a>
 
@@ -69,7 +67,7 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="95%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="impact"></a>
 
@@ -92,7 +90,7 @@ It's the work I already gravitate to: helping teams decide _where AI actually be
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="95%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="featured"></a>
 
@@ -170,7 +168,7 @@ flowchart TD
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="95%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <!-- The snake is a self-contained SVG committed to the `output` branch by
      .github/workflows/snake.yml — no third-party service at view time.
