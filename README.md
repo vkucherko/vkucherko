@@ -9,7 +9,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero-v4.svg" width="100%" alt="Terminal — slav@quality-engineer runs an agentic QA pipeline (story → design → generate → run → heal → green). AI Quality Engineer · 9+ yrs." />
+  <img src="./assets/hero-v5.svg" width="100%" alt="Terminal — slav@quality-engineer runs an agentic QA pipeline (story → design → generate → run → heal → green). AI Quality Engineer · 9+ yrs." />
 </p>
 
 <h3 align="center">I build quality systems for software and, increasingly, with AI.</h3>
@@ -20,25 +20,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kucherko/"><img src="assets/badge-linkedin.svg" height="22" alt="LinkedIn — kucherko" /></a>
-  <a href="mailto:vkucherko7@gmail.com"><img src="assets/badge-mail.svg" height="22" alt="Email — vkucherko7" /></a>
+  <a href="mailto:vkucherko7@gmail.com"><img src="assets/badge-mail-v2.svg" height="22" alt="Email — vkucherko7" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/ui/tag-location.svg" height="24" alt="Sarasota, FL · open to remote" />
-  &nbsp;&nbsp;
-  <img src="assets/ui/tag-quality.svg" height="24" alt="Quality Engineering · 9+ years" />
+  <img src="assets/ui/tag-location.svg" height="24" alt="Sarasota, FL · open to remote" /><img src="assets/ui/spacer.svg" width="1" height="1" alt="" />
 </p>
 
 <p align="center">
-  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-build.dark.svg" /><img src="assets/ui/navbtn-build.svg" height="30" alt="What I build" /></picture></a>
-  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-headed.dark.svg" /><img src="assets/ui/navbtn-headed.svg" height="30" alt="Where I'm headed" /></picture></a>
-  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-impact.dark.svg" /><img src="assets/ui/navbtn-impact.svg" height="30" alt="Impact" /></picture></a>
-  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-featured.dark.svg" /><img src="assets/ui/navbtn-featured.svg" height="30" alt="Featured work" /></picture></a>
-  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-stack.dark.svg" /><img src="assets/ui/navbtn-stack.svg" height="30" alt="Tech Stack" /></picture></a>
-  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-talk.dark.svg" /><img src="assets/ui/navbtn-talk.svg" height="30" alt="Contact" /></picture></a>
+  <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-build-v2.dark.svg" /><img src="assets/ui/navbtn-build-v2.svg" height="32" alt="What I build" /></picture></a>
+  <a href="#headed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-headed-v2.dark.svg" /><img src="assets/ui/navbtn-headed-v2.svg" height="32" alt="Where I'm headed" /></picture></a>
+  <a href="#impact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-impact-v2.dark.svg" /><img src="assets/ui/navbtn-impact-v2.svg" height="32" alt="Impact" /></picture></a>
+  <a href="#featured"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-featured-v2.dark.svg" /><img src="assets/ui/navbtn-featured-v2.svg" height="32" alt="Featured work" /></picture></a>
+  <a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-stack-v2.dark.svg" /><img src="assets/ui/navbtn-stack-v2.svg" height="32" alt="Tech Stack" /></picture></a>
+  <a href="#talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-talk-v2.dark.svg" /><img src="assets/ui/navbtn-talk-v2.svg" height="32" alt="Contact" /></picture></a>
 </p>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="build"></a>
 
@@ -151,8 +147,6 @@ flowchart TD
 
 <sub>React Native · Expo · TypeScript · Cloudflare Workers · Supabase / Postgres &nbsp;·&nbsp; source private · TestFlight on request</sub>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
-
 <a id="stack"></a>
 
 <details>
@@ -193,8 +187,6 @@ flowchart TD
   <img height="165" alt="Slav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vkucherko&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=a855f7&text_color=9fb0c8&bg_color=0b1020" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkucherko&layout=compact&hide_border=true&title_color=22d3ee&text_color=9fb0c8&bg_color=0b1020" />
 </p>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/rule.dark.svg" /><img src="assets/ui/rule.svg" width="82%" alt="" /></picture><img src="assets/ui/spacer.svg" width="1" height="1" alt="" /></p>
 
 <a id="talk"></a>
 
