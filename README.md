@@ -41,12 +41,12 @@
 
 <br />
 
-I spent 9+ years making test automation reliable, including Playwright, Selenium, API, and CI/CD. Now I engineer the layer above it: AI systems that own testing end-to-end, treated as real software (evals, instrumentation, confidence gates) rather than a prompt trick.
+I spent 9+ years making test automation reliable, including UI, API, and CI/CD. Now I engineer the layer above it: AI systems that own testing end-to-end, treated as real software (evals, instrumentation, confidence gates) rather than a prompt trick.
 
-- A requirement becomes a suite autonomously. A multi-agent loop turns a plain-language user story into a designed, generated, executed, and self-healed Playwright + TypeScript suite. It drives a real browser to verify selectors before it writes a single assertion.
-- Self-healing that's gated, not magic. When a selector drifts, an agent proposes a patch, re-verifies it against the live DOM, and applies it only above a confidence bar; otherwise it escalates to a human with a diagnosis, not just a red X.
-- Every run is a readable timeline. Per-step tool calls, retries, and outcomes are logged as a trajectory, so a failure is an inspectable sequence and not a black box.
-- Grounded in the product. Requirements and domain context are retrieved (RAG) so generated tests reflect intended behavior, not just whatever the DOM happens to expose.
+- A requirement/feature/knowledge base becomes a suite autonomously. A multi-agent loop turns a plain-language user story into a designed, generated, executed, and self-healed Playwright suite that drives a browser to verify selectors before it writes a single assertion.
+- Self-healing that's gated. When a selector drifts, an agent proposes a patch, re-verifies it against the live DOM, and applies it only above a confidence bar; otherwise it escalates to a human with a diagnosis.
+- Every run is a readable timeline. Per-step tool calls, retries, token usage, models used, and outcomes are logged as a trajectory, so a failure is an inspectable sequence.
+- Grounded in the product. Requirements and domain context are retrieved (semantic RAG) so generated tests reflect intended behavior, not just what the DOM exposes.
 
 <sub>Multi-agent LLM orchestration · GitHub Copilot · Claude / Claude Code · tool-calling · MCP · Playwright · TypeScript · Azure DevOps</sub>
 
@@ -61,9 +61,9 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 
 <br />
 
-Nine years shipping and hardening software, lately by building with AI, not just around it, points to one seat I'm deliberately growing into: the AI Business Architect.
+Nine years shipping and hardening software, lately utilizing and building with AI points to one seat I'm deliberately growing into: the AI Business Architect.
 
-It's the work I already gravitate to: helping teams decide where AI actually belongs, weighing implementation options and their trade-offs, and turning "we should use AI" into a concrete, defensible design with the pros, cons, and failure modes named up front. Part engineer, part honest translator between what the business wants and what the technology can actually deliver.
+It's the work I already gravitate to: helping teams decide where AI actually belongs, weighing implementation options and their trade-offs, and turning "we should use AI" into a concrete, defensible design with the pros, cons, and failure modes. Part engineer, part translator between what the business wants and what the technology can actually deliver.
 
 </details>
 
@@ -83,7 +83,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
      it gets dramatically stronger. Only use numbers you can defend in a screen.
      ──────────────────────────────────────────────────────────────────────── -->
 
-- Flake, killed at the root through quarantine plus retry-with-diagnostics instead of blanket reruns, so a red build means a real regression. <!-- e.g. flaky rate 12% → 2% -->
+- Flaky tests are killed at the root through quarantine plus retry-with-diagnostics instead of blanket reruns, so a failed build turns into a real regression. <!-- e.g. flaky rate 12% → 2% -->
 - Fast feedback as suites grow because sharded Playwright fan-out/fan-in keeps PR signal quick under load. <!-- e.g. PR CI wall-time 34m → 11m -->
 - Fewer escapes to production by focusing coverage on the journeys that actually ship, not vanity line-coverage. <!-- e.g. defect-escape rate < 8% -->
 - Testing AI systems, not just AI-assisted testing, requires eval harnesses, golden datasets, and a failure taxonomy (hallucination / timeout / tool-mismatch / policy-block) that make agent behavior measurable.
@@ -98,7 +98,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;QA Control Panel: an agentic AI test automation platform
 
-It turns an Azure DevOps user story, feature, existing test cases, or knowledge base into a **designed, implemented, reviewed, executed, and self-healed** Playwright suite autonomously, with zero manual scripting. A multi-agent LLM pipeline drives a browser to verify selectors before writing tests, then re-inspects and heals on failure.
+It turns an Azure DevOps user story, feature, existing test cases, or knowledge base into a designed, implemented, reviewed, executed, and self-healed Playwright suite autonomously, with zero manual scripting. A multi-agent LLM pipeline drives a browser to verify selectors before writing tests, then re-inspects and heals on failure.
 
 <details>
 <summary>&nbsp;&nbsp;<b>End-to-end Flow</b></summary>
@@ -124,7 +124,7 @@ flowchart TD
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/leaf.dark.svg" /><img src="assets/glyph/leaf.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;Chia: an instant food barcode scanner
 
-A cross-platform iOS app that scans a food barcode and returns an instant **pass / fail** health verdict from a 65-rule engine over 1.3M+ products. Offline first, with AI (Gemini) OCR for crowdsourced labels. Every verdict fires through four redundant signals: **color + icon + text + haptic**.
+A cross-platform iOS app that scans a food barcode and returns an instant pass / fail health verdict from a 65-rule engine over 1.3M+ products. Offline first, with AI (Gemini) OCR for crowdsourced labels. Every verdict fires through four redundant signals: color + icon + text + haptic.
 
 <details>
 <summary>&nbsp;&nbsp;<b>End-to-end Flow</b></summary>
@@ -181,11 +181,6 @@ flowchart TD
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkucherko/vkucherko/output/snake-dark.svg" />
     <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/vkucherko/vkucherko/output/snake.svg" width="100%" />
   </picture>
-</p>
-
-<p align="center">
-  <img height="165" alt="Slav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vkucherko&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=a855f7&text_color=9fb0c8&bg_color=0b1020" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkucherko&layout=compact&hide_border=true&title_color=22d3ee&text_color=9fb0c8&bg_color=0b1020" />
 </p>
 
 <a id="talk"></a>
