@@ -22,10 +22,8 @@
   <a href="https://www.linkedin.com/in/kucherko/"><img src="assets/badge-linkedin.svg" height="22" alt="LinkedIn — kucherko" /></a>
   <a href="mailto:vkucherko7@gmail.com"><img src="assets/badge-mail-v2.svg" height="22" alt="Email — vkucherko7" /></a>
   <br />
-  &nbsp;<img src="assets/ui/tag-location.svg" height="24" alt="Sarasota, FL · open to remote" />&nbsp;
+  <picture><img src="assets/ui/tag-location.svg" height="24" alt="Sarasota, FL · open to remote" /></picture>
 </p>
-
-<br />
 
 <p align="center">
   <a href="#build"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/navbtn-build-v4.dark.svg" /><img src="assets/ui/navbtn-build-v4.svg" height="36" alt="What I build" /></picture></a>
@@ -39,7 +37,7 @@
 <a id="build"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build.dark.svg" /><img src="assets/glyph/build.svg" height="28" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build-c.dark.svg" /><img src="assets/glyph/build-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h2></summary>
 
 <br />
 
@@ -59,7 +57,7 @@ I spent 9+ years making test automation reliable, including Playwright, Selenium
 <a id="headed"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed.dark.svg" /><img src="assets/glyph/headed.svg" height="28" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed-c.dark.svg" /><img src="assets/glyph/headed-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h2></summary>
 
 <br />
 
@@ -74,7 +72,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 <a id="impact"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize.dark.svg" /><img src="assets/glyph/optimize.svg" height="28" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize-c.dark.svg" /><img src="assets/glyph/optimize-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h2></summary>
 
 <br />
 
@@ -96,7 +94,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 
 <a id="featured"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured.dark.svg" /><img src="assets/glyph/featured.svg" height="28" align="absmiddle" alt=""></picture> &nbsp;Featured work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured-c.dark.svg" /><img src="assets/glyph/featured-c.svg" height="31" align="absmiddle" alt=""></picture> &nbsp;Featured work
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;QA Control Panel: an agentic AI test automation platform
 
@@ -132,6 +130,7 @@ A cross-platform iOS app that scans a food barcode and returns an instant **pass
 <summary>&nbsp;&nbsp;<b>End-to-end Flow</b></summary>
 
 ```mermaid
+%%{init: {'themeVariables': {'edgeLabelBackground': 'transparent'}}}%%
 flowchart TD
     Scan["Scan barcode (expo-camera)"] --> Cache{"MMKV to SQLite: cache hit?"}
     Cache -->|hit, offline| Eval["HealthEvaluator: 65-rule engine"]
@@ -151,7 +150,7 @@ flowchart TD
 <a id="stack"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" /><img src="assets/icons/layers-v2.svg" height="28" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-v3-dark.svg" /><img src="assets/icons/layers-v3.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h2></summary>
 
 <br />
 
@@ -191,7 +190,7 @@ flowchart TD
 
 <a id="talk"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk.dark.svg" /><img src="assets/glyph/talk.svg" height="28" align="absmiddle" alt=""></picture> &nbsp;Let's talk
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk-c.dark.svg" /><img src="assets/glyph/talk-c.svg" height="31" align="absmiddle" alt=""></picture> &nbsp;Let's talk
 
 <p align="center">
   <img src="./assets/sig.svg" width="150" alt="SK monogram" />
