@@ -37,7 +37,7 @@
 <a id="build"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build-c.dark.svg" /><img src="assets/glyph/build-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/build-d.dark.svg" /><img src="assets/glyph/build-d.svg" height="30" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I Build Now</h2></summary>
 
 <br />
 
@@ -57,7 +57,7 @@ I spent 9+ years making test automation reliable, including UI, API, and CI/CD. 
 <a id="headed"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed-c.dark.svg" /><img src="assets/glyph/headed-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/headed-d.dark.svg" /><img src="assets/glyph/headed-d.svg" height="30" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Where I'm headed</h2></summary>
 
 <br />
 
@@ -72,7 +72,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 <a id="impact"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize-c.dark.svg" /><img src="assets/glyph/optimize-c.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/optimize-d.dark.svg" /><img src="assets/glyph/optimize-d.svg" height="30" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;What I optimize for</h2></summary>
 
 <br />
 
@@ -94,7 +94,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 
 <a id="featured"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured-c.dark.svg" /><img src="assets/glyph/featured-c.svg" height="31" align="absmiddle" alt=""></picture> &nbsp;Featured work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/featured-d.dark.svg" /><img src="assets/glyph/featured-d.svg" height="30" align="absmiddle" alt=""></picture> &nbsp;Featured work
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;QA Control Panel: an agentic AI test automation platform
 
@@ -150,7 +150,7 @@ flowchart TD
 <a id="stack"></a>
 
 <details>
-<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-v3-dark.svg" /><img src="assets/icons/layers-v3.svg" height="31" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h2></summary>
+<summary><h2>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-v4-dark.svg" /><img src="assets/icons/layers-v4.svg" height="30" align="absmiddle" alt="" /></picture>&nbsp;&nbsp;Tech Stack</h2></summary>
 
 <br />
 
@@ -185,7 +185,7 @@ flowchart TD
 
 <a id="talk"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk-c.dark.svg" /><img src="assets/glyph/talk-c.svg" height="31" align="absmiddle" alt=""></picture> &nbsp;Let's talk
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/talk-d.dark.svg" /><img src="assets/glyph/talk-d.svg" height="30" align="absmiddle" alt=""></picture> &nbsp;Let's talk
 
 <p align="center">
   <img src="./assets/sig.svg" width="150" alt="SK monogram" />
