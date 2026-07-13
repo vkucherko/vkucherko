@@ -1,11 +1,5 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="24" height="24" viewBox="0 -40.000000 512.000000 552.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.16, written by Peter Selinger 2001-2019
-</metadata>
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-fill="#1f2328" stroke="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 287 32" width="287" height="32" role="img" aria-label="What I Build Now"><g transform="translate(6 2) scale(0.0546875)"><g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#e6edf3" stroke="none">
 <path d="M735 4628 c-27 -5 -87 -27 -133 -48 -108 -51 -222 -161 -270 -260
 -66 -136 -62 -25 -62 -1760 0 -1735 -4 -1624 62 -1760 48 -99 162 -209 269
 -259 46 -22 111 -44 143 -50 42 -8 598 -11 1820 -11 1933 0 1828 -3 1962 61
@@ -22,5 +16,4 @@ l352 -353 -352 -352 c-194 -194 -357 -366 -362 -381 -14 -37 -14 -103 0 -130
 <path d="M2480 1898 c-50 -34 -72 -71 -77 -125 -5 -65 26 -120 87 -150 l44
 -23 666 0 666 0 44 23 c61 30 92 85 87 150 -5 54 -27 91 -77 125 l-33 22 -687
 0 -687 0 -33 -22z"/>
-</g>
-</svg>
+</g></g><text x="46" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#e6edf3" dominant-baseline="central">What I Build Now</text></svg>

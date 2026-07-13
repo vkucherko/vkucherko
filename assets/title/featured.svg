@@ -1,11 +1,5 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="24" height="24" viewBox="0 -40.000000 512.000000 552.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.16, written by Peter Selinger 2001-2019
-</metadata>
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-fill="#e6edf3" stroke="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 32" width="244" height="32" role="img" aria-label="Featured work"><g transform="translate(6 2) scale(0.0546875)"><g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#1f2328" stroke="none">
 <path d="M528 4836 c-99 -35 -175 -102 -225 -198 l-28 -53 0 -740 0 -740 27
 -57 c37 -79 98 -142 177 -181 l66 -32 735 0 735 0 66 32 c79 39 140 102 177
 181 l27 57 0 735 0 735 -32 66 c-39 79 -102 140 -181 177 l-57 27 -725 2
@@ -28,5 +22,4 @@ c-578 2 -732 0 -762 -11z m1430 -318 c17 -17 17 -1339 0 -1356 -17 -17 -1339
 181 l27 57 0 735 0 735 -32 66 c-39 79 -102 140 -181 177 l-57 27 -725 2
 c-578 2 -732 0 -762 -11z m1430 -318 c17 -17 17 -1339 0 -1356 -17 -17 -1339
 -17 -1356 0 -17 17 -17 1339 0 1356 17 17 1339 17 1356 0z"/>
-</g>
-</svg>
+</g></g><text x="46" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#1f2328" dominant-baseline="central">Featured work</text></svg>
