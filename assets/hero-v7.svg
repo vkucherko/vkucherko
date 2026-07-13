@@ -73,8 +73,8 @@
       .runbox{ animation:runFlash 2.7s var(--e-io) 7.35s both; }
       .runtext{ animation:runTextFlash 2.7s var(--e-io) 7.35s both; }
       .failtag{ opacity:0; animation:tagIn 1.2s linear 7.65s both; }
-      .shH{ animation:sweepH .85s ease-in-out 8.9s 1 both; }
-      .heal-ring{ transform-box:fill-box; transform-origin:center; opacity:0; animation:healPulse 1s var(--e-out) 8.85s 1 both; }
+      .shH{ animation:sweepH .85s ease-in-out 9.1s 1 both; }
+      .heal-ring{ transform-box:fill-box; transform-origin:center; opacity:0; animation:healPulse 1s var(--e-out) 9.0s 1 both; }
       .check{ stroke-dasharray:var(--len); animation:drawIn .55s var(--e-out) 9.95s both; }
       .row{ transform-box:fill-box; transform-origin:center; animation:rowSettle .8s ease 9.95s 1; }
       .r-status{ opacity:0; animation:fadeIn .5s ease 10.25s forwards; }
@@ -102,13 +102,13 @@
     <!-- title bar: … agentic-qa %  ·  [term icon] zsh -->
     <g class="r-title">
       <circle cx="44" cy="40" r="6" fill="#ff5f57"/><circle cx="66" cy="40" r="6" fill="#febc2e"/><circle cx="88" cy="40" r="6" fill="#28c840"/>
-      <text class="mono muted" x="118" y="45" font-size="13">slav@quality-engineer&#160;&#160;—&#160;&#160;agentic-qa&#160;%&#160;&#160;·&#160;&#160;</text>
-      <g transform="translate(455,36)" fill="none" stroke="#67748c" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
+      <text class="mono muted" x="118" y="45" font-size="14">slav@quality-engineer&#160;&#160;—&#160;&#160;agentic-qa&#160;%&#160;&#160;·&#160;&#160;</text>
+      <g transform="translate(486,36)" fill="none" stroke="#67748c" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
         <rect x="0.65" y="0.65" width="15" height="13" rx="2.6"/>
         <path d="M3.6 3.6 L6.6 6.3 L3.6 9"/>
         <line x1="7.6" y1="9.2" x2="11.6" y2="9.2"/>
       </g>
-      <text class="mono muted" x="476" y="45" font-size="13">zsh</text>
+      <text class="mono muted" x="508" y="45" font-size="14">zsh</text>
     </g>
     <line x1="16" y1="62" x2="844" y2="62" stroke="#1b2436" stroke-width="1"/>
 
