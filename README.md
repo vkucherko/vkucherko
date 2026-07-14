@@ -96,7 +96,7 @@ It's the work I already gravitate to: helping teams decide where AI actually bel
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title/featured.dark.svg" /><img src="assets/title/featured.svg" height="32" alt="Featured work" /></picture></p>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/qa.dark.svg" /><img src="assets/glyph/qa.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;QA Control Panel: an agentic AI test automation platform
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title/qa.dark.svg" /><img src="assets/title/qa.svg" height="28" alt="QA Control Panel: an agentic AI test automation platform" /></picture></p>
 
 It turns an Azure DevOps user story, feature, existing test cases, or knowledge base into a designed, implemented, reviewed, executed, and self-healed Playwright suite autonomously, with zero manual scripting. A multi-agent LLM pipeline drives a browser to verify selectors before writing tests, then re-inspects and heals on failure.
 
@@ -122,7 +122,7 @@ flowchart TD
 
 <sub>Node.js · Playwright / TypeScript · GitHub Copilot · MCP · Azure DevOps · RAG &nbsp;·&nbsp; source private</sub>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph/leaf.dark.svg" /><img src="assets/glyph/leaf.svg" height="24" align="absmiddle" alt=""></picture> &nbsp;Chia: an instant food barcode scanner
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title/leaf.dark.svg" /><img src="assets/title/leaf.svg" height="28" alt="Chia: an instant food barcode scanner" /></picture></p>
 
 A cross-platform iOS app that scans a food barcode and returns an instant pass / fail health verdict from a 65-rule engine over 1.3M+ products. Offline first, with AI (Gemini) OCR for crowdsourced labels. Every verdict fires through four redundant signals: color + icon + text + haptic.
 
